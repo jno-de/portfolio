@@ -11,3 +11,9 @@
  * Think of it like a sass mixin, where you can apply any css you want
  * inside of that block and it'll apply downstream. Two examples are given below
  */
+future-terminal-text {
+    font-weight: bold;
+    font-size: 24px;
+    font-style: italic;
+    font-family: "Press Start 2P";
+}
