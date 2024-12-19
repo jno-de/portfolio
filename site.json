@@ -82,25 +82,6 @@
         "hideInMenu": false,
         "readtime": 1
       }
-    },
-    {
-      "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
-      "indent": 1,
-      "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
-      "slug": "lesson-1/introduction",
-      "order": 0,
-      "parent": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "title": "Introduction",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1734597754,
-        "published": true,
-        "status": ""
-      }
     }
   ]
 }
