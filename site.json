@@ -76,6 +76,22 @@
         "locked": false,
         "status": ""
       }
+    },
+    {
+      "id": "item-1bf3b985-9d24-4ab1-899b-43b1e1086e54",
+      "indent": 0,
+      "location": "pages/item-1bf3b985-9d24-4ab1-899b-43b1e1086e54/index.html",
+      "slug": "page",
+      "order": 0,
+      "parent": null,
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1734604523,
+        "updated": 1734604523,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
