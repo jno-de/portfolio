@@ -16,7 +16,7 @@
     </link>
     <description>
         <![CDATA[ 
-<p data-font-family="secondary">test</p>
+<p data-font-family="navigation" data-font-weight="light">test</p>
 <future-terminal-text red fadein accent-color="green" glitch-max="5" glitch-duration="50">Neo:</future-terminal-text>
 <future-terminal-text glitch accent-color="green" glitch-max="5" glitch-duration="50">Follow the white rabbit</future-terminal-text>
  ]]>
