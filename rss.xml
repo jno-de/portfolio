@@ -10,14 +10,14 @@
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
-    <title>Page</title>
+    <title>Welcome</title>
     <link>
     /item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef
     </link>
     <description>
         <![CDATA[ 
 <p data-font-family="navigation" data-font-weight="light">test</p>
-<future-terminal-text red fadein accent-color="green" glitch-max="5" glitch-duration="50">Neo:</future-terminal-text>
+<future-terminal-text red fadein accent-color="green" glitch-max="5" glitch-duration="50" data-font-family="navigation">Neo:</future-terminal-text>
 <future-terminal-text glitch accent-color="green" glitch-max="5" glitch-duration="50">Follow the white rabbit</future-terminal-text>
  ]]>
     </description>
