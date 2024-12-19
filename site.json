@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734603878,
+      "updated": 1734603902,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,10 +34,10 @@
       "domain": null
     },
     "theme": {
-      "element": "bootstrap-theme",
-      "path": "@haxtheweb/bootstrap-theme/bootstrap-theme.js",
-      "name": "BootstrapCSS theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "clean-two",
+      "path": "@haxtheweb/clean-two/clean-two.js",
+      "name": "Clean two theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
