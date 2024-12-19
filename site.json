@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734604390,
+      "updated": 1734604425,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -69,7 +69,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1734604390,
+        "updated": 1734604425,
         "images": {},
         "videos": {},
         "published": true,
@@ -96,14 +96,14 @@
       "slug": "new-item",
       "order": 1,
       "parent": null,
-      "title": "New item",
+      "title": "Home",
       "description": "",
       "metadata": {
         "locked": false,
         "created": 1734602342,
         "images": [],
         "videos": [],
-        "updated": 1734604390,
+        "updated": 1734604425,
         "published": true,
         "status": ""
       }
@@ -119,7 +119,7 @@
       "description": "",
       "metadata": {
         "created": 1734604382,
-        "updated": 1734604390,
+        "updated": 1734604425,
         "images": [],
         "videos": [],
         "published": true,
