@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734604009,
+      "updated": 1734604024,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,9 +34,9 @@
       "domain": null
     },
     "theme": {
-      "element": "terrible-resume-themes",
-      "path": "@haxtheweb/terrible-themes/lib/terrible-resume-themes.js",
-      "name": "Terrible resume",
+      "element": "polaris-invent-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+      "name": "Polaris - Invent",
       "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
