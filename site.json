@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734604092,
+      "updated": 1734604263,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,17 +34,17 @@
       "domain": null
     },
     "theme": {
-      "element": "polaris-theme",
-      "path": "@haxtheweb/polaris-theme/polaris-theme.js",
-      "name": "Polaris - Basic site",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "element": "haxcms-blank-theme",
+      "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
+      "name": "Blank theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
         "imageLink": "",
         "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-deep-purple-7",
-        "icon": "hax:wizard-hat"
+        "cssVariable": "--simple-colors-default-theme-null-7",
+        "icon": "social:sentiment-satisfied"
       },
       "regions": {}
     },
