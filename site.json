@@ -18,7 +18,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734597758,
+      "updated": 1734602342,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -63,7 +63,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1734601953,
+        "updated": 1734602342,
         "images": {},
         "videos": {},
         "published": true,
@@ -81,6 +81,23 @@
         ],
         "hideInMenu": false,
         "readtime": 1
+      }
+    },
+    {
+      "id": "item-b1e0870b-e4fb-4209-ad93-29632eccc2e0",
+      "indent": 0,
+      "location": "pages/item-b1e0870b-e4fb-4209-ad93-29632eccc2e0/index.html",
+      "slug": "new-item",
+      "order": 1,
+      "parent": null,
+      "title": "New item",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1734602342,
+        "images": [],
+        "videos": [],
+        "updated": 1734602342
       }
     }
   ]
