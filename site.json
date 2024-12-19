@@ -57,13 +57,13 @@
       "indent": 0,
       "location": "pages/item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef/index.html",
       "slug": "page",
-      "order": 1,
+      "order": 0,
       "parent": null,
       "title": "Page",
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1734597729,
+        "updated": 1734597754,
         "images": {},
         "videos": {},
         "published": true,
@@ -84,25 +84,6 @@
       }
     },
     {
-      "id": "item-72a5228c-d0bd-4b96-a124-f64e18dea25a",
-      "indent": 0,
-      "location": "pages/item-72a5228c-d0bd-4b96-a124-f64e18dea25a/index.html",
-      "slug": "lesson-1",
-      "order": 2,
-      "parent": null,
-      "title": "Lesson 1",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1723216821,
-        "images": [],
-        "videos": [],
-        "updated": 1734597729,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-52e57103-e309-4136-8c2e-fbb29983a013",
       "indent": 1,
       "location": "pages/item-52e57103-e309-4136-8c2e-fbb29983a013/index.html",
@@ -116,7 +97,7 @@
         "created": 1723216821,
         "images": [],
         "videos": [],
-        "updated": 1734597729,
+        "updated": 1734597754,
         "published": true,
         "status": ""
       }
