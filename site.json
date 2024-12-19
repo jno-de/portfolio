@@ -59,25 +59,6 @@
   },
   "items": [
     {
-      "id": "item-6fd82767-ddc4-4ac2-9539-2489d4774f4e",
-      "indent": 0,
-      "location": "pages/item-6fd82767-ddc4-4ac2-9539-2489d4774f4e/index.html",
-      "slug": "page-1",
-      "order": 0,
-      "parent": null,
-      "title": "Welcome",
-      "description": "",
-      "metadata": {
-        "created": 1734604382,
-        "updated": 1734604508,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "locked": false,
-        "status": ""
-      }
-    },
-    {
       "id": "item-1bf3b985-9d24-4ab1-899b-43b1e1086e54",
       "indent": 0,
       "location": "pages/item-1bf3b985-9d24-4ab1-899b-43b1e1086e54/index.html",
@@ -88,13 +69,14 @@
       "description": "Test\n",
       "metadata": {
         "created": 1734604523,
-        "updated": 1734604560,
+        "updated": 1734604601,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
       }
     }
   ]
