@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734603967,
+      "updated": 1734603982,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,10 +34,10 @@
       "domain": null
     },
     "theme": {
-      "element": "haxcms-blank-theme",
-      "path": "@haxtheweb/haxcms-elements/lib/core/themes/haxcms-blank-theme.js",
-      "name": "Blank theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/GreyStyle.svg",
+      "element": "haxor-slevin",
+      "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
+      "name": "Haxor Blog theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
