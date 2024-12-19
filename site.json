@@ -59,48 +59,17 @@
   },
   "items": [
     {
-      "id": "item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef",
-      "indent": 0,
-      "location": "pages/item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef/index.html",
-      "slug": "page",
-      "order": 0,
-      "parent": null,
-      "title": "Welcome",
-      "description": "\n\n",
-      "metadata": {
-        "created": 1723216766,
-        "updated": 1734604452,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "locked": false,
-        "status": "",
-        "files": [
-          {
-            "path": "[object Object]449209895_10132275882878874_6858206363295672221_n.jpg",
-            "fullUrl": "//home/haxtheweb/haxsite/files/449209895_10132275882878874_6858206363295672221_n.jpg",
-            "url": "files/449209895_10132275882878874_6858206363295672221_n.jpg",
-            "type": "image/jpeg",
-            "name": "449209895_10132275882878874_6858206363295672221_n.jpg",
-            "size": 45592
-          }
-        ],
-        "hideInMenu": false,
-        "readtime": 1
-      }
-    },
-    {
       "id": "item-6fd82767-ddc4-4ac2-9539-2489d4774f4e",
       "indent": 0,
       "location": "pages/item-6fd82767-ddc4-4ac2-9539-2489d4774f4e/index.html",
       "slug": "page-1",
-      "order": 2,
+      "order": 1,
       "parent": null,
       "title": "Page",
       "description": "",
       "metadata": {
         "created": 1734604382,
-        "updated": 1734604452,
+        "updated": 1734604464,
         "images": [],
         "videos": [],
         "published": true,
