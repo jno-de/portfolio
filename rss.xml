@@ -6,18 +6,17 @@
   <description>own course</description>
   <copyright>Copyright (C) 2024 </copyright>
   <language>en-us</language>
-  <lastBuildDate>1970-01-21T01:50:04.603Z</lastBuildDate>
+  <lastBuildDate>1970-01-21T01:50:04.664Z</lastBuildDate>
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
-    <title>Page</title>
+    <title>Home</title>
     <link>
     /item-1bf3b985-9d24-4ab1-899b-43b1e1086e54
     </link>
     <description>
-        <![CDATA[ 
-<p>Test</p>
- ]]>
+        <![CDATA[ <future-terminal-text red fadein accent-color="green" glitch-max="5" glitch-duration="50">Neo:</future-terminal-text>
+<future-terminal-text glitch glitch-max="5" glitch-duration="50">Follow the white rabbit</future-terminal-text> ]]>
     </description>
     <category></category>
     <guid>

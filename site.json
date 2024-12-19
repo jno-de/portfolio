@@ -23,7 +23,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1734604603,
+      "updated": 1734604664,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -63,13 +63,13 @@
       "indent": 0,
       "location": "pages/item-1bf3b985-9d24-4ab1-899b-43b1e1086e54/index.html",
       "slug": "page",
-      "order": 1,
+      "order": 0,
       "parent": null,
-      "title": "Page",
+      "title": "Home",
       "description": "Test\n",
       "metadata": {
         "created": 1734604523,
-        "updated": 1734604601,
+        "updated": 1734604664,
         "images": {},
         "videos": {},
         "published": true,
