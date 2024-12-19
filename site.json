@@ -69,7 +69,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1734604425,
+        "updated": 1734604452,
         "images": {},
         "videos": {},
         "published": true,
@@ -90,25 +90,6 @@
       }
     },
     {
-      "id": "item-b1e0870b-e4fb-4209-ad93-29632eccc2e0",
-      "indent": 0,
-      "location": "pages/item-b1e0870b-e4fb-4209-ad93-29632eccc2e0/index.html",
-      "slug": "new-item",
-      "order": 1,
-      "parent": null,
-      "title": "Home",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1734602342,
-        "images": [],
-        "videos": [],
-        "updated": 1734604425,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
       "id": "item-6fd82767-ddc4-4ac2-9539-2489d4774f4e",
       "indent": 0,
       "location": "pages/item-6fd82767-ddc4-4ac2-9539-2489d4774f4e/index.html",
@@ -119,7 +100,7 @@
       "description": "",
       "metadata": {
         "created": 1734604382,
-        "updated": 1734604425,
+        "updated": 1734604452,
         "images": [],
         "videos": [],
         "published": true,
